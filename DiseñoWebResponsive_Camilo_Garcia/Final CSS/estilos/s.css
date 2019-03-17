@@ -1,0 +1,40 @@
+header{
+    background-color: rebeccapurple;
+}
+article{
+    background-color: #C6d5c5
+}
+#ppagi{
+    margin: 0px auto;
+    text-align: center;
+    border: 3px solid #C6d5c5;
+    border-radius: 0px 0px 10px 10px
+}
+
+#pie1{
+
+    width: 25%;
+    height: 200px;
+    border-radius: 0 0 0 10PX;
+}
+#pie2{
+   
+    width: 25%;
+    height: 200px;
+
+    
+}
+#pie3{
+   
+    width: 25%;
+    height: 200px;
+}
+#pie4{
+    
+  
+    width: 25%;
+    border-radius: 0 0 10PX 0;
+    height: 200px;
+
+    
+}
